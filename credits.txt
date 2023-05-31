@@ -1,0 +1,14 @@
+-----------------------------
+Credits - Updated 30 May 2023
+-----------------------------
+
+Fonts: 
+ SIL Open Font License (OFL) - http://scripts.sil.org/OFL
+ Font Ezra SIL: https://software.sil.org/ezra/
+ Font Shlomo Stam: https://sites.google.com/site/orlaeinayim/introduction-to-fonts-with-hebrew-cantillation-marks
+ Font Bona Nova: The Bona Nova Project Authors (https://github.com/kosmynkab/Brygada-1918)
+
+UI components library:
+ Mudblazor: https://mudblazor.com/
+ 
+ 
