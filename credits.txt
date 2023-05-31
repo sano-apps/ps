@@ -1,6 +1,6 @@
------------------------------
+---------------------------------------------------------
 Credits - Updated 30 May 2023
------------------------------
+---------------------------------------------------------
 
 Fonts: 
  SIL Open Font License (OFL) - http://scripts.sil.org/OFL
@@ -11,7 +11,7 @@ Fonts:
 UI components library:
  Mudblazor: https://mudblazor.com/
  
----------------------------------------------------------------------------- 
+--------------------------------------------------------- 
  
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
